@@ -4,8 +4,8 @@
         {
             "email": "177060987+freeform-andre@users.noreply.github.com",
             "github": "freeform-andre",
-            "name": "freeform-andre",
-            "github_user_id": 177060987
+            "github_user_id": 177060987,
+            "name": "freeform-andre"
         }
     ],
     "repository": [
@@ -13,7 +13,8 @@
         "github:postgres/postgres"
     ],
     "versions": [
-        "16.2"
+        "16.2",
+        "17.4"
     ],
     "yanked_versions": {}
 }

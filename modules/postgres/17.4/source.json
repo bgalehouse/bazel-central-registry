@@ -1,0 +1,9 @@
+{
+    "url": "https://ftp.postgresql.org/pub/source/v17.4/postgresql-17.4.tar.bz2",
+    "integrity": "sha256-xGBbc/6hGWNAZpn5Sblm5dFzp+4Myu+JON7AyoqZX+c=",
+    "strip_prefix": "postgresql-17.4",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-xFt97Pdx01oSs/TtndylYKt4CB9Dwjr/97F82sBC/jE="
+    }
+}
