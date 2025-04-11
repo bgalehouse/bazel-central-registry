@@ -7,7 +7,7 @@
         "strchrnul.patch": "sha256-rzI+A6zDgG/2qVtkARd9jZTL576wghiL3WoaObbZYXo="
     },
     "overlay": {
-        "BUILD.bazel": "sha256-0mL/cvKmtBkLA722+ySlCae63SbPlqmCIQaQAaTZMgs=",
-	"MODULE.bazel": "sha256-kMTdeZialYl+1cYEkERlWvVkdY3nOxF3LmT7oc0Y15A="
+        "BUILD.bazel": "sha256-v01pH7pouqxfYAkVIsMzNocNOsSoxCFoaqaLbbhZL1A=",
+	"MODULE.bazel": "sha256-Bk8B5aYGXYHas6gFdGNMf+CFXSh+yEVhMoO0Wq/hQog="
     }
 }
