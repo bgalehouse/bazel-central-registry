@@ -1,5 +1,6 @@
-Based on https://git.postgresql.org/gitweb/?p=postgresql.git;a=commitdiff;h=6da2ba1d8a031984eb016fed6741bb2ac945f19d
-Should be unecessary after 17.5 or so.
+Fix to build on recent macosx.
+Adapted to 17.4 from https://git.postgresql.org/gitweb/?p=postgresql.git;a=commitdiff;h=6da2ba1d8a031984eb016fed6741bb2ac945f19d
+Should be unecessary once that is part of a release (17.5?) and backported.
 diff --git a/configure b/configure
 index 30d949c3c46..3d0e701c745 100755
 --- configure
